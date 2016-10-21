@@ -5,3 +5,5 @@
 + git commit
 + git checkout
 + git push
+
++ git log
